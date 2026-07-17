@@ -1,6 +1,5 @@
 # okaapi-user-guide
-User guide for the okaapi R package
-
+This repository contains the user guide for the okaapi R package.
 
 The user guide is meant as a supplement to the okaapi introduction paper, and we recommend reading the paper before the guide.
 
